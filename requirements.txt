@@ -4,3 +4,11 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
+Flask-WTF==0.14.3
+Flask-Mail==0.9.1
+email-validator==1.1.2
+WTForms~=2.3.3
+app~=0.0.1
+pip~=20.2.3
+blinker~=1.4
+setuptools~=49.2.1
